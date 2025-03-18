@@ -1,0 +1,34 @@
+{
+  "chart": {
+    "title": "Freedom of expression index",
+    "subtitle": "Based on the expert estimates and index by [V-Dem](#dod:v-dem). It captures the extent to which people can voice their views and the media can present different political perspectives. It ranges from 0 to 1 (most free).",
+    "citation": "V-Dem (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/freedom-of-expression-index?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Argentina",
+      "Australia",
+      "Botswana",
+      "China"
+    ]
+  },
+  "columns": {
+    "Freedom of Expression and Alternative Sources of Information index (best estimate)": {
+      "titleShort": "Freedom of Expression and Alternative Sources of Information index",
+      "titleLong": "Freedom of Expression and Alternative Sources of Information index - (best estimate)",
+      "descriptionShort": "Best estimate of the extent to which people can discuss political matters at home and in the public sphere, the press, and media are free and can present different political perspectives, and the freedom of academic and cultural expression.",
+      "descriptionProcessing": "We expand the years covered by V-Dem further: To expand the time coverage of today's countries and include more of the period when they were still non-sovereign territories, we identified the historical entity they were a part of and used that regime's data whenever available\n\nFor example, V-Dem only provides regime data since Bangladesh's independence in 1971. There is, however, regime data for Pakistan and the colony of India, both of which the current territory of Bangladesh was a part. We, therefore, use the regime data of Pakistan for Bangladesh from 1947 to 1970, and the regime data of India from 1789 to 1946. We did so for all countries with a past or current population of more than one million.",
+      "unit": "",
+      "timespan": "1789-2023",
+      "type": "Numeric",
+      "owidVariableId": 900218,
+      "shortName": "freeexpr_vdem__estimate_best",
+      "lastUpdated": "2024-03-07",
+      "nextUpdate": "2025-04-18",
+      "citationShort": "V-Dem (2024) – processed by Our World in Data",
+      "citationLong": "V-Dem (2024) – processed by Our World in Data. “Freedom of Expression and Alternative Sources of Information index – (best estimate)” [dataset]. V-Dem, “V-Dem Country-Year (Full + Others) v14” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900218.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-03-18",
+  "activeFilters": {}
+}
